@@ -16,6 +16,5 @@ Then further on user will have 4 option either he / she want to buy medicine or 
 4.	If User selects the forth option then it will simply exit the program.
 5.	If user enter any wrong entry in program then program will display an error message.
 
-6.	
 Conclusion
 Seek the use and working of assembly language in our daily life, how assembly language is useful in our life, and how we can optimize our time using assembly language.
